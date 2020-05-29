@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=05:05:0C:B6:C8:34:F7:AF:D4:62:68:2F:7C:ED:D2:92:5F:E9:90:D6%3Bcom.hnakyol.kotlinfoursquare
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.hnakyol.kotlinfoursquare
+
+    SHA-1 certificate fingerprint:
+    05:05:0C:B6:C8:34:F7:AF:D4:62:68:2F:7C:ED:D2:92:5F:E9:90:D6
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA7i5aKqNqR-QRgjZNfuA7F9lUEAMFVEGg</string>
+</resources>
